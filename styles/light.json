@@ -1,0 +1,81 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.8/theme.json",
+  "version": 3,
+  "title": "Light Theme",
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "name": "Background Dark",
+          "slug": "bg-dark",
+          "color": "oklch(0.92 0.025 264)"
+        },
+        {
+          "name": "Background",
+          "slug": "bg",
+          "color": "oklch(0.96 0.025 264)"
+        },
+        {
+          "name": "Background Light",
+          "slug": "bg-light",
+          "color": "oklch(1 0.025 264)"
+        },
+        {
+          "name": "Text",
+          "slug": "text",
+          "color": "oklch(0.15 0.05 264)"
+        },
+        {
+          "name": "Text Muted",
+          "slug": "text-muted",
+          "color": "oklch(0.4 0.05 264)"
+        },
+        {
+          "name": "Highlight",
+          "slug": "highlight",
+          "color": "oklch(1 0.05 264)"
+        },
+        {
+          "name": "Border",
+          "slug": "border",
+          "color": "oklch(0.6 0.05 264)"
+        },
+        {
+          "name": "Border Muted",
+          "slug": "border-muted",
+          "color": "oklch(0.7 0.05 264)"
+        },
+        {
+          "name": "Primary",
+          "slug": "primary",
+          "color": "oklch(0.4 0.1 264)"
+        },
+        {
+          "name": "Secondary",
+          "slug": "secondary",
+          "color": "oklch(0.4 0.1 84)"
+        },
+        {
+          "name": "Danger",
+          "slug": "danger",
+          "color": "oklch(0.5 0.05 30)"
+        },
+        {
+          "name": "Warning",
+          "slug": "warning",
+          "color": "oklch(0.5 0.05 100)"
+        },
+        {
+          "name": "Success",
+          "slug": "success",
+          "color": "oklch(0.5 0.05 160)"
+        },
+        {
+          "name": "Info",
+          "slug": "info",
+          "color": "oklch(0.5 0.05 260)"
+        }
+      ]
+    }
+  }
+}
